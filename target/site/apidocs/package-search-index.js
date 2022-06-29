@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.turnimator.scoreboard.exceptions"},{"l":"com.turnimator.scoreboard.interfaces"},{"l":"com.turnimator.scoreboard.model"},{"l":"view"}];updateSearchResults();
