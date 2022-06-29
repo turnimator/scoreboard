@@ -1,0 +1,42 @@
+Output from running the sample program in MainClass.java:
+
+
+Kickoff Vaalerenga against Manchester United at Vaalerenga Stadion
+Kickoff Steawa Bucuresti against Standard Liege in Arena Națională
+
+**Oh, no! Manchester scores!
+
+------------- SCORES -------------
+Steawa Bucuresti - Standard Liege : 0 - 0
+Vaalerenga - Manchester United : 0 - 1
+----------------------------------
+
+Wait ... the referee waves his hands. Offside! Goal anulled!
+
+------------- SCORES -------------
+Steawa Bucuresti - Standard Liege : 0 - 0
+Vaalerenga - Manchester United : 0 - 0
+----------------------------------
+
+
+**GOOOAL!  Arena Națională ERUPTS!
+
+------------- SCORES -------------
+Steawa Bucuresti - Standard Liege : 1 - 0
+Vaalerenga - Manchester United : 0 - 0
+----------------------------------
+
+The referee blows his whistle at Vaalerenga Stadion
+
+------------- RESULTS -------------
+1: Vaalerenga 0 - Manchester United 0
+----------------------------------
+
+Game over in Bucuresti
+Final results
+
+------------- RESULTS -------------
+1: Steawa Bucuresti 1 - Standard Liege 0
+2: Vaalerenga 0 - Manchester United 0
+----------------------------------
+
